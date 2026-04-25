@@ -222,7 +222,7 @@ export default function Footer() {
           >
             <Image
               src="/insintese-logo.png"
-              alt="Insíntese"
+              alt="Insintese"
               width={184}
               height={24}
               className="h-6 w-auto object-contain"
